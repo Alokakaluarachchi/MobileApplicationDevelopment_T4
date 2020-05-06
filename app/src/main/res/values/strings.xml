@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabSheet5</string>
+    <string name="Name">Name</string>
+    <string name="PassWord">Password</string>
+    <string name="Add">Add</string>
+    <string name="Signin">SignIn</string>
+    <string name="Delete">Delete</string>
+    <string name="Update">Update</string>
+    <string name="select">Select All</string>
+</resources>
